@@ -1,0 +1,8 @@
+.dropdown {
+  display: none;
+
+}
+
+.open + .dropdown {
+  display: flex;
+}
