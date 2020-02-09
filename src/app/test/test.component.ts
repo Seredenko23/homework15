@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class TestComponent {
   x = 5;
   name = 'Vlados';
+  delay = 3000;
   constructor() { }
 }
